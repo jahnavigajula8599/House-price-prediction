@@ -9,8 +9,11 @@ The ‘SalePrice’ attribute is our target variable.
 Motivation :
 
 ● This price estimation is necessary during the sale of a property. 
+
 ● Also while applying for a loan or determining the property's marketability as well.
+
 ● But the problem is manual pricing calculation is challenging for both buyer and the vendor.
+
 ● As a result it's critical to establish a way to forecast house rents considering the influencing elements.
 
 Main goals :
